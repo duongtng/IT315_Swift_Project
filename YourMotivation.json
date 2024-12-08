@@ -12,7 +12,8 @@
             "ColorOfTheDay": "green",
             "SongLink": "https://www.youtube.com/watch?v=LWL5v2y_dOI",
             "SongName": "The Climb by Miley Cyrus",
-            "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/pinksky.jpg"
+            "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/pinksky.jpg",
+            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/go.png"
         },
         {
             "Day": "Tuesday's Motivation",
@@ -26,7 +27,8 @@
             "ColorOfTheDay": "orange",
             "SongLink": "https://www.youtube.com/watch?v=ioE_O7Lm0I4",
             "SongName": "Gonna Fly Now by Bill Conti",
-            "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/flamingo.jpg"
+            "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/flamingo.jpg",
+            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/motivation.png"
         },
         {
             "Day": "Wednesday's Motivation",
@@ -40,7 +42,8 @@
             "ColorOfTheDay": "pink",
             "SongLink": "https://www.youtube.com/watch?v=SsYOAIR4L_w",
             "SongName": "Love Train by The O'Jays",
-            "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/pinkflower.jpg"
+            "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/pinkflower.jpg",
+            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/giftbox.png"
         },
         {
             "Day": "Thursday's Motivation",
@@ -54,7 +57,8 @@
             "ColorOfTheDay": "blue",
             "SongLink": "https://www.youtube.com/watch?v=0mYBSayCsH0",
             "SongName": "I'm A Believer by Smath Mouth",
-            "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/beach.jpg"
+            "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/beach.jpg",
+            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/onfire.png"
         },
         {
             "Day": "Friday's Motivation",
@@ -68,7 +72,8 @@
             "ColorOfTheDay": "violet",
             "SongLink": "https://www.youtube.com/watch?v=CevxZvSJLk8",
             "SongName": "Roar by Katy Perry",
-            "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/whiteflower.jpg"
+            "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/whiteflower.jpg",
+            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/busincesswoman.png"
         },
         {
             "Day": "Saturday's Motivation",
@@ -82,7 +87,8 @@
             "ColorOfTheDay": "navy",
             "SongLink": "https://www.youtube.com/watch?v=58-AKkNMZNQ&list=RDMM&start_radio=1&rv=5YYLLSdW030",
             "SongName": "APT by Rosé",
-            "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/room2.jpg"
+            "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/room2.jpg",
+            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/superman.png"
         },
         {
             "Day": "Sunday's Motivation",
@@ -96,7 +102,8 @@
             "ColorOfTheDay": "maroon",
             "SongLink": "https://www.youtube.com/watch?v=M3XM0WtW7Uo",
             "SongName": "Questions and Answers by Biffy Clyro",
-            "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/sky.jpg"
+            "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/sky.jpg",
+            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/trophy.png"
         }
     ]
 }
