@@ -1,0 +1,102 @@
+{
+    "YourMotivation": [
+        {
+            "Day": "Monday's Motivation",
+            "Quote": "You don’t have to see the whole staircase, just take the first step.",
+            "Author": "Martin Luther King",
+            "AuthorLink": "https://www.nobelprize.org/prizes/peace/1964/king/biographical/",
+            "Message": "Overwhelmed by a big goal? Break it down into smaller, manageable steps. Don't let the enormity of the task discourage you. Just focus on the first step and build momentum from there.",
+            "Affirmation": "I am taking action, one step at a time!",
+            "PracticeSuggestion": "Let go of one worry!",
+            "GoalOfTheDay": "Move your body",
+            "ColorOfTheDay": "green",
+            "SongLink": "https://www.youtube.com/watch?v=LWL5v2y_dOI",
+            "SongName": "The Climb by Miley Cyrus",
+            "BgImage": "pinksky.jpg"
+        },
+        {
+            "Day": "Tuesday's Motivation",
+            "Quote": "It always seems impossible until it’s done.",
+            "Author": "Nelson Mandela",
+            "AuthorLink": "https://www.un.org/en/events/mandeladay/legacy.shtml",
+            "Message": "Doubt can be a powerful obstacle. Remember that even the most challenging endeavors can be accomplished. Don't let self-doubt hold you back.",
+            "Affirmation": "I am capable of achieving anything!",
+            "PracticeSuggestion": "Let's do it!",
+            "GoalOfTheDay": "Open a book and read",
+            "ColorOfTheDay": "orange",
+            "SongLink": "https://www.youtube.com/watch?v=ioE_O7Lm0I4",
+            "SongName": "Gonna Fly Now by Bill Conti",
+            "BgImage": "flamingo.jpg"
+        },
+        {
+            "Day": "Wednesday's Motivation",
+            "Quote": "I find that the harder I work, the more luck I seem to have.",
+            "Author": "Thomas Jefferson",
+            "AuthorLink": "https://www.whitehouse.gov/about-the-white-house/presidents/thomas-jefferson/",
+            "Message": "Luck favors the prepared mind. Hard work and dedication increase your chances of success. Don't rely on luck; create your own opportunities.",
+            "Affirmation": "I am a hardworker.",
+            "PracticeSuggestion": "Trust the process!",
+            "GoalOfTheDay": "Smiles more!",
+            "ColorOfTheDay": "pink",
+            "SongLink": "https://www.youtube.com/watch?v=SsYOAIR4L_w",
+            "SongName": "Love Train by The O'Jays",
+            "BgImage": "pinkflower.jpg"
+        },
+        {
+            "Day": "Thursday's Motivation",
+            "Quote": "The way to get started is to quit talking and begin doing.",
+            "Author": "Walt Disney",
+            "AuthorLink": "https://www.waltdisney.org/walt-disney",
+            "Message": "Action speaks louder than words. Stop planning and start executing.",
+            "Affirmation": "I am a person of action",
+            "PracticeSuggestion": "Let go of one worry!",
+            "GoalOfTheDay": "Start a delayed task now!",
+            "ColorOfTheDay": "blue",
+            "SongLink": "https://www.youtube.com/watch?v=0mYBSayCsH0",
+            "SongName": "I'm A Believer by Smath Mouth",
+            "BgImage": "beach.jpg"
+        },
+        {
+            "Day": "Friday's Motivation",
+            "Quote": "Begin while others are procrastinating. Work while others are wishing.",
+            "Author": "William Arthur Ward",
+            "AuthorLink": "https://www.goodreads.com/author/show/416931.William_Arthur_Ward",
+            "Message": "Don't let fear of failure or the perfect timing hold you back. Seize the moment and take advantage of opportunities.",
+            "Affirmation": "I am turning my dream to reality",
+            "PracticeSuggestion": "Write down your goals",
+            "GoalOfTheDay": "Finish at least one task",
+            "ColorOfTheDay": "violet",
+            "SongLink": "https://www.youtube.com/watch?v=CevxZvSJLk8",
+            "SongName": "Roar by Katy Perry",
+            "BgImage": "whiteflower.jpg"
+        },
+        {
+            "Day": "Saturday's Motivation",
+            "Quote": "Turn your wounds into wisdom.",
+            "Author": "Oprah Winfrey",
+            "AuthorLink": "https://www.goodreads.com/author/show/3518.Oprah_Winfrey",
+            "Message": "Embrace challenges as opportunities to learn and grow.",
+            "Affirmation": "I am resilient and capable of turning obstacles into strength",
+            "PracticeSuggestion": "Reflect on how past challenges shaped you",
+            "GoalOfTheDay": "Focus on turning setbacks into stepping stones",
+            "ColorOfTheDay": "navy",
+            "SongLink": "https://www.youtube.com/watch?v=58-AKkNMZNQ&list=RDMM&start_radio=1&rv=5YYLLSdW030",
+            "SongName": "APT by Rosé",
+            "BgImage": "whiteflower.jpg"
+        },
+        {
+            "Day": "Sunday's Motivation",
+            "Quote": "Sometimes questions are more important than answers.",
+            "Author": "Nancy Willard",
+            "AuthorLink": "https://www.goodreads.com/author/show/13454.Nancy_Willard",
+            "Message": "Sometimes we are too focus on finding answers, forgetting that the right question can lead us to the true discovery.",
+            "Affirmation": "I am in control, I can learn from my mistakes",
+            "PracticeSuggestion": "Sit down, close your eyes, and relax",
+            "GoalOfTheDay": "Just ask questions, don't be shy!",
+            "ColorOfTheDay": "maroon",
+            "SongLink": "https://www.youtube.com/watch?v=M3XM0WtW7Uo",
+            "SongName": "Questions and Answers by Biffy Clyro",
+            "BgImage": "whiteflower.jpg"
+        }
+    ]
+}
