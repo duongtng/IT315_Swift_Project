@@ -104,7 +104,7 @@
             "SongName": "APT by Rosé",
             "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/room2.jpg",
             "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/superman.png",
-                        "Challenge": "Go to library and study at",
+            "Challenge": "Go to library and study at",
             "ChallengePlace": "Johnson Center",
             "ChallengeLocation": "4400 University Dr, Fairfax, VA 220302" 
         },
@@ -122,7 +122,7 @@
             "SongName": "Q&A by Biffy Clyro",
             "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/sky.jpg",
             "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/trophy.png",
-                        "Challenge": "Go to library and study at",
+            "Challenge": "Go to library and study at",
             "ChallengePlace": "Johnson Center",
             "ChallengeLocation": "4400 University Dr, Fairfax, VA 220302" 
         }
