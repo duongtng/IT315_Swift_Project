@@ -14,7 +14,7 @@
             "SongName": "The Climb by Miley Cyrus",
             "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/pinksky.jpg",
             "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/go.png",
-            "Challenge": "Walk or Run Around",
+            "Challenge": "Walk/Run 5 laps",
             "ChallengePlace": "Royal Lake Park",
             "ChallengeLocation": "5344 Gainsborough Dr, Fairfax, VA 22032" 
         },
@@ -32,7 +32,7 @@
             "SongName": "Gonna Fly Now by Bill Conti",
             "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/flamingo.jpg",
             "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/motivation.png",
-            "Challenge": "Go to library and study at",
+            "Challenge": "Study at least 5 hours",
             "ChallengePlace": "Johnson Center",
             "ChallengeLocation": "4400 University Dr, Fairfax, VA 220302" 
         },
@@ -50,9 +50,9 @@
             "SongName": "Love Train by The O'Jays",
             "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/pinkflower.jpg",
             "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/giftbox.png",
-            "Challenge": "Go to library and study at",
-            "ChallengePlace": "Johnson Center",
-            "ChallengeLocation": "4400 University Dr, Fairfax, VA 220302" 
+            "Challenge": "Make a new friend",
+            "ChallengePlace": "Student Hub Sub 1",
+            "ChallengeLocation": "4400 Rivanna River Way, Fairfax, VA 22030" 
         },
         {
             "Day": "Thursday's Motivation",
@@ -68,9 +68,9 @@
             "SongName": "I'm A Believer by Smath Mouth",
             "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/beach.jpg",
             "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/onfire.png",
-            "Challenge": "Go to library and study at",
-            "ChallengePlace": "Johnson Center",
-            "ChallengeLocation": "4400 University Dr, Fairfax, VA 220302" 
+            "Challenge": "Take 1-hour yoga class",
+            "ChallengePlace": "Wheel Hourse Club",
+            "ChallengeLocation": "5716 Union Mill Rd, Clifton, VA 20124" 
         },
         {
             "Day": "Friday's Motivation",
@@ -86,9 +86,9 @@
             "SongName": "Roar by Katy Perry",
             "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/whiteflower.jpg",
             "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/busincesswoman.png",
-            "Challenge": "Go to library and study at",
-            "ChallengePlace": "Johnson Center",
-            "ChallengeLocation": "4400 University Dr, Fairfax, VA 220302"        
+            "Challenge": "Paint an artwork",
+            "ChallengePlace": "Fairfax Art League, Inc",
+            "ChallengeLocation": "3999 University Dr, Fairfax, VA 22030"        
         },
         {
             "Day": "Saturday's Motivation",
@@ -104,9 +104,9 @@
             "SongName": "APT by Rosé",
             "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/room2.jpg",
             "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/superman.png",
-            "Challenge": "Go to library and study at",
-            "ChallengePlace": "Johnson Center",
-            "ChallengeLocation": "4400 University Dr, Fairfax, VA 220302" 
+            "Challenge": "Complete this hiking trail",
+            "ChallengePlace": "Cedar Run Trail",
+            "ChallengeLocation": "5081 Cedar Ln, Columbia, MD 21044" 
         },
         {
             "Day": "Sunday's Motivation",
@@ -122,9 +122,9 @@
             "SongName": "Q&A by Biffy Clyro",
             "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/sky.jpg",
             "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/trophy.png",
-            "Challenge": "Go to library and study at",
-            "ChallengePlace": "Johnson Center",
-            "ChallengeLocation": "4400 University Dr, Fairfax, VA 220302" 
+            "Challenge": "Learn to cook a new dish ",
+            "ChallengePlace": "Cookology at Ballston Quarter",
+            "ChallengeLocation": "4238 Wilson Blvd, Third Floor - Suite 3110, Arlington, VA 22203" 
         }
     ]
 }
