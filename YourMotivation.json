@@ -13,7 +13,10 @@
             "SongLink": "https://www.youtube.com/watch?v=LWL5v2y_dOI",
             "SongName": "The Climb by Miley Cyrus",
             "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/pinksky.jpg",
-            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/go.png"
+            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/go.png",
+            "Challenge": "Walk or Run Around",
+            "ChallengePlace": "Royal Lake Park",
+            "ChallengeLocation": "5344 Gainsborough Dr, Fairfax, VA 22032" 
         },
         {
             "Day": "Tuesday's Motivation",
@@ -28,7 +31,10 @@
             "SongLink": "https://www.youtube.com/watch?v=ioE_O7Lm0I4",
             "SongName": "Gonna Fly Now by Bill Conti",
             "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/flamingo.jpg",
-            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/motivation.png"
+            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/motivation.png",
+            "Challenge": "Go to library and study at",
+            "ChallengePlace": "Johnson Center",
+            "ChallengeLocation": "4400 University Dr, Fairfax, VA 220302" 
         },
         {
             "Day": "Wednesday's Motivation",
@@ -43,7 +49,10 @@
             "SongLink": "https://www.youtube.com/watch?v=SsYOAIR4L_w",
             "SongName": "Love Train by The O'Jays",
             "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/pinkflower.jpg",
-            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/giftbox.png"
+            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/giftbox.png",
+            "Challenge": "Go to library and study at",
+            "ChallengePlace": "Johnson Center",
+            "ChallengeLocation": "4400 University Dr, Fairfax, VA 220302" 
         },
         {
             "Day": "Thursday's Motivation",
@@ -58,7 +67,10 @@
             "SongLink": "https://www.youtube.com/watch?v=0mYBSayCsH0",
             "SongName": "I'm A Believer by Smath Mouth",
             "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/beach.jpg",
-            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/onfire.png"
+            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/onfire.png",
+            "Challenge": "Go to library and study at",
+            "ChallengePlace": "Johnson Center",
+            "ChallengeLocation": "4400 University Dr, Fairfax, VA 220302" 
         },
         {
             "Day": "Friday's Motivation",
@@ -74,6 +86,9 @@
             "SongName": "Roar by Katy Perry",
             "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/whiteflower.jpg",
             "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/busincesswoman.png"
+            "Challenge": "Go to library and study at",
+            "ChallengePlace": "Johnson Center",
+            "ChallengeLocation": "4400 University Dr, Fairfax, VA 220302"        
         },
         {
             "Day": "Saturday's Motivation",
@@ -88,7 +103,10 @@
             "SongLink": "https://www.youtube.com/watch?v=58-AKkNMZNQ&list=RDMM&start_radio=1&rv=5YYLLSdW030",
             "SongName": "APT by Rosé",
             "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/room2.jpg",
-            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/superman.png"
+            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/superman.png",
+                        "Challenge": "Go to library and study at",
+            "ChallengePlace": "Johnson Center",
+            "ChallengeLocation": "4400 University Dr, Fairfax, VA 220302" 
         },
         {
             "Day": "Sunday's Motivation",
@@ -103,7 +121,10 @@
             "SongLink": "https://www.youtube.com/watch?v=M3XM0WtW7Uo",
             "SongName": "Q&A by Biffy Clyro",
             "BgImage": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/sky.jpg",
-            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/trophy.png"
+            "CellLogo": "https://raw.githubusercontent.com/duongtng/IT315_Swift_Project/refs/heads/main/trophy.png",
+                        "Challenge": "Go to library and study at",
+            "ChallengePlace": "Johnson Center",
+            "ChallengeLocation": "4400 University Dr, Fairfax, VA 220302" 
         }
     ]
 }
